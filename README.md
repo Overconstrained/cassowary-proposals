@@ -2,4 +2,4 @@
 
 Publish, discuss and review proposals.
 
-NB: This is not a formal instance for the cassowary community. 
+NB: This is not a formal forum for the cassowary community. Just a place to discuss.
